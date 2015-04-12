@@ -51,8 +51,7 @@ SWEP.EquipMenuData = {
 SWEP.Icon = "melon/ttt_icon.png"
 SWEP.Kind = WEAPON_EQUIP2
 SWEP.CanBuy = { ROLE_TRAITOR }
-SWEP.LimitedStock = false -- CHANGE THIS
-
+SWEP.LimitedStock = true
 if ( GAMEMODE.Name == "Trouble in Terrorist Town" ) then
 	SWEP.Slot = 7
 end
