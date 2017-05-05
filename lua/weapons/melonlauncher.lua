@@ -2,8 +2,8 @@ AddCSLuaFile()
 
 --[[ Weapon Info ]]--
 
-SWEP.PrintName = "Melon launcher"
-SWEP.Author = "Skatehawk11"
+SWEP.PrintName = "Janik ist Tilted"
+SWEP.Author = "FlameEver"
 
 SWEP.AutoSwitchTo = false
 SWEP.AutoSwitchFrom = false
